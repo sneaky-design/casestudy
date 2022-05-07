@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color:rgb(221, 221, 221);
+}
+section{
+    background-color:rgb(142, 142, 142);
+    height:500px;
+    width:100%;
+    border-radius:50px;
+}
+img{
+    width:350px;
+    height:350px;
+    border-style:groove;
+    border-color:aqua;
+    border-width:20px;
+} 
+h5{
+    font-size:20px;
+    color:cyan;
+    font-family: 'Playfair Display', serif;
+}
+b{
+    font-size:25px;
+}
+h4{
+    color:white;
+    font-size:25px;
+    font-family: 'Playfair Display', serif;
+}
+button{
+    background-color:blue;
+    font-size:25px;
+    border-radius:10px;
+    
+}
